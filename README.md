@@ -1,5 +1,5 @@
 # WebCouper
-Source code for my WebCouper Test
+Source code for my première WebCouper Project
 
 *This code was eventually with the React framework, the dynamism is not yet 100%. __open for review__, Thank you*
 
