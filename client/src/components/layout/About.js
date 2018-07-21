@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import image from './logo-footer.png';
 
 class About extends Component {
   render() {
@@ -8,8 +9,8 @@ class About extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <img className="display-3 mb-4" src="img/logo-footer.png" />
-                <h1 className="display-3 mb-4">About WebCouper-N-u
+                <img className="img-fluid" src={image} />
+                <h1 className="display-3 mb-4"><small> About WebCouper-N-u</small>
                 </h1>
                 <h3 className="lead">Welcome</h3>
                 <p className="small">Lorem ipsum dolor sit amet, summo omnes ei mel. Vix ne nihil argumentum neglegentur, ei saperet iracundia vel. Ne est eloquentiam interpretaris, quas quidam conceptam quo et. At eam illum deserunt, in quis ipsum quaerendum eum. In etiam ignota menandri vix. Est aeterno habemus signiferumque id.
